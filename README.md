@@ -27,6 +27,7 @@ Although Support Vector Regression is used rarely it carries certain advantages 
 2. Decision model can be easily updated.
    
 <img width="456" alt="Screenshot 2024-01-08 at 9 27 32 PM" src="https://github.com/ColleenJung/Social-Network-Ads_SVM/assets/119357849/2135bd46-2e76-4b3d-a455-7b2f39506f64">
+
 ## Disadvantages of Support Vector Regression
 Some of the drawbacks faced by Support Vector Machines while handling regression problems are as mentioned below:
 
